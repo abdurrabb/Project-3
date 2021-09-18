@@ -1,0 +1,109 @@
+DROP TABLE IF EXISTS fifteen_all_data;
+CREATE TABLE fifteen_all_data (
+	district VARCHAR
+	, school_code VARCHAR
+	, school_name VARCHAR
+	, sbe_district VARCHAR
+	, subject VARCHAR
+	, standar VARCHAR
+	, all_students_perc DECIMAL
+	, female_perc DECIMAL
+	, male_perc DECIMAL
+	, american_indian_perc DECIMAL
+	, asian_perc DECIMAL
+	, black_perc DECIMAL
+	, hispanic_perc DECIMAL
+	, two_races_perc DECIMAL
+	, white_perc DECIMAL
+	, econ_disadvantage_perc DECIMAL
+	, limited_english_perc DECIMAL
+	, student_with_disability_perc DECIMAL
+	, acad_or_int_gifted_perc DECIMAL
+	, all_students INT
+	, female INT
+	, male INT
+	, american_indian INT
+	, asian INT
+	, black INT
+	, hispanic INT
+	, two_races INT
+	, white INT
+	, econ_disatvantage INT
+	, limited_english INT
+	, student_with_disability INT
+	, acad_or_int_gifted INT
+);
+
+SELECT * FROM fifteen_all_data LIMIT 100;
+
+CREATE TABLE sixteen_drilldown (
+	district VARCHAR
+	, school_code VARCHAR
+	, school_name VARCHAR
+	, sbe_district VARCHAR
+	, subject VARCHAR
+	, standar VARCHAR
+	, all_students_perc DECIMAL
+	, female_perc DECIMAL
+	, male_perc DECIMAL
+	, american_indian_perc DECIMAL
+	, asian_perc DECIMAL
+	, black_perc DECIMAL
+	, hispanic_perc DECIMAL
+	, two_races_perc DECIMAL
+	, white_perc DECIMAL
+	, econ_disadvantage_perc DECIMAL
+	, limited_english_perc DECIMAL
+	, student_with_disability_perc DECIMAL
+	, acad_or_int_gifted_perc DECIMAL
+	, all_students INT
+	, female INT
+	, male INT
+	, american_indian INT
+	, asian INT
+	, black INT
+	, hispanic INT
+	, two_races INT
+	, white INT
+	, econ_disatvantage INT
+	, limited_english INT
+	, student_with_disability INT
+	, acad_or_int_gifted INT
+);
+
+SELECT * FROM sixteen_drilldown LIMIT 100;
+
+CREATE TABLE fourteen_drilldown (
+	district VARCHAR
+	, school_code VARCHAR
+	, school_name VARCHAR
+	, sbe_district VARCHAR
+	, subject VARCHAR
+	, standar VARCHAR
+	, all_students_perc DECIMAL
+	, female_perc DECIMAL
+	, male_perc DECIMAL
+	, american_indian_perc DECIMAL
+	, asian_perc DECIMAL
+	, black_perc DECIMAL
+	, hispanic_perc DECIMAL
+	, two_races_perc DECIMAL
+	, white_perc DECIMAL
+	, econ_disadvantage_perc DECIMAL
+	, limited_english_perc DECIMAL
+	, student_with_disability_perc DECIMAL
+	, acad_or_int_gifted_perc DECIMAL
+	, all_students INT
+	, female INT
+	, male INT
+	, american_indian INT
+	, asian INT
+	, black INT
+	, hispanic INT
+	, two_races INT
+	, white INT
+	, econ_disatvantage INT
+	, limited_english INT
+	, student_with_disability INT
+	, acad_or_int_gifted INT
+);

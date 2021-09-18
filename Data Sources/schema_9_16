@@ -1,0 +1,32 @@
+CREATE TABLE fifteen_other(
+	district VARCHAR
+	, school_code VARCHAR
+	, school_name VARCHAR
+	, sbe_district VARCHAR
+	, evaas_growth VARCHAR
+	, percent_participation DECIMAL
+	, act_percent DECIMAL
+	, act_workeys DECIMAL
+	, passing_math_three DECIMAL
+	, four_year_graduation DECIMAL
+	, five_year_graduation DECIMAL
+	, graduation_project VARCHAR
+);
+DROP TABLE sixteen_other;
+CREATE TABLE sixteen_other(
+	district VARCHAR
+	, school_code VARCHAR
+	, school_name VARCHAR
+	, sbe_district VARCHAR
+	, evaas_growth VARCHAR
+	, evaas_growth_index DECIMAL
+	, percent_participation DECIMAL
+	, act_percent DECIMAL
+	, act_workeys DECIMAL
+	, passing_math_three DECIMAL
+	, four_year_graduation DECIMAL
+	, five_year_graduation DECIMAL
+	, graduation_project VARCHAR
+);
+
+SELECT * FROM sixteen_other

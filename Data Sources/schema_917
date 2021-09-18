@@ -1,0 +1,45 @@
+DROP TABLE funding;
+CREATE TABLE funding (
+	lea_state VARCHAR
+	, lea VARCHAR
+	, school_state VARCHAR
+	, school VARCHAR
+	, id VARCHAR
+	, year INT
+	, category VARCHAR
+	, amount INT
+	, full_time_equivalent DECIMAL
+	, american_indian INT
+	, asian INT
+	, pacific_island INT
+	, hispanic INT
+	, black INT
+	, white INT
+	, two_or_more INT
+	, total INT
+	, swd_idea INT
+	, swd_401 INT
+	, el INT
+);
+
+CREATE TABLE suspension (
+	lea_state VARCHAR
+	, lea VARCHAR
+	, school_state VARCHAR
+	, school VARCHAR
+	, id VARCHAR
+	, year INT
+	, category VARCHAR
+	, sex VARCHAR
+	, american_indian INT
+	, asian INT
+	, pacific_island INT
+	, hispanic INT
+	, black INT
+	, white INT
+	, two_or_more INT
+	, total INT
+	, swd_idea INT
+	, swd_401 INT
+	, el INT
+);
