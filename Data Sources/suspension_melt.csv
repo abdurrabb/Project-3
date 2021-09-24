@@ -1,0 +1,749 @@
+,lea_state,lea,school_state,school,id,year,category,variable,value
+0,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,american_indian,0
+1,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,american_indian,4
+2,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,american_indian,0
+3,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,american_indian,0
+4,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,american_indian,10
+5,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,american_indian,2
+6,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,american_indian,0
+7,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,american_indian,10
+8,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,american_indian,10
+9,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,american_indian,0
+10,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,american_indian,3
+11,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,american_indian,0
+12,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,american_indian,7
+13,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,american_indian,0
+14,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,american_indian,0
+15,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,american_indian,10
+16,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,american_indian,0
+17,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,american_indian,0
+18,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,american_indian,2
+19,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,american_indian,0
+20,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,american_indian,19
+21,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,american_indian,10
+22,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,american_indian,8
+23,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,american_indian,3
+24,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,american_indian,10
+25,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,american_indian,28
+26,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,american_indian,2
+27,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,american_indian,13
+28,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,american_indian,0
+29,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,american_indian,4
+30,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,american_indian,7
+31,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,american_indian,0
+32,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,american_indian,22
+33,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,american_indian,7
+34,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,american_indian,0
+35,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,american_indian,0
+36,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,american_indian,7
+37,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,american_indian,50
+38,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,american_indian,0
+39,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,american_indian,7
+40,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,american_indian,0
+41,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,american_indian,6
+42,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,american_indian,2
+43,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,american_indian,0
+44,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,american_indian,4
+45,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,american_indian,7
+46,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,american_indian,0
+47,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,american_indian,0
+48,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,american_indian,4
+49,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,american_indian,4
+50,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,american_indian,0
+51,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,american_indian,10
+52,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,american_indian,0
+53,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,american_indian,0
+54,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,american_indian,10
+55,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,american_indian,10
+56,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,american_indian,0
+57,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,american_indian,10
+58,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,american_indian,10
+59,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,american_indian,58
+60,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,american_indian,16
+61,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,american_indian,0
+62,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,american_indian,0
+63,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,american_indian,13
+64,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,american_indian,0
+65,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,american_indian,12
+66,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,american_indian,7
+67,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,american_indian,0
+68,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,asian,2
+69,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,asian,454
+70,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,asian,14
+71,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,asian,1
+72,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,asian,88
+73,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,asian,5
+74,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,asian,0
+75,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,asian,62
+76,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,asian,166
+77,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,asian,17
+78,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,asian,0
+79,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,asian,24
+80,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,asian,121
+81,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,asian,75
+82,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,asian,1
+83,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,asian,55
+84,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,asian,0
+85,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,asian,0
+86,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,asian,4
+87,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,asian,0
+88,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,asian,0
+89,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,asian,31
+90,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,asian,0
+91,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,asian,65
+92,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,asian,139
+93,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,asian,38
+94,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,asian,10
+95,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,asian,124
+96,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,asian,28
+97,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,asian,0
+98,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,asian,4
+99,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,asian,0
+100,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,asian,3
+101,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,asian,106
+102,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,asian,1
+103,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,asian,8
+104,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,asian,82
+105,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,asian,20
+106,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,asian,0
+107,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,asian,17
+108,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,asian,0
+109,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,asian,0
+110,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,asian,7
+111,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,asian,0
+112,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,asian,3
+113,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,asian,79
+114,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,asian,0
+115,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,asian,0
+116,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,asian,220
+117,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,asian,16
+118,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,asian,15
+119,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,asian,49
+120,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,asian,0
+121,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,asian,3
+122,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,asian,91
+123,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,asian,17
+124,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,asian,10
+125,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,asian,85
+126,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,asian,45
+127,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,asian,23
+128,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,asian,94
+129,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,asian,2
+130,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,asian,8
+131,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,asian,67
+132,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,asian,7
+133,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,asian,6
+134,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,asian,52
+135,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,asian,8
+136,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,pacific_island,0
+137,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,pacific_island,4
+138,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,pacific_island,0
+139,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,pacific_island,0
+140,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,pacific_island,2
+141,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,pacific_island,0
+142,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,pacific_island,0
+143,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,pacific_island,0
+144,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,pacific_island,2
+145,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,pacific_island,0
+146,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,pacific_island,0
+147,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,pacific_island,0
+148,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,pacific_island,2
+149,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,pacific_island,0
+150,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,pacific_island,0
+151,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,pacific_island,0
+152,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,pacific_island,0
+153,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,pacific_island,0
+154,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,pacific_island,0
+155,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,pacific_island,0
+156,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,pacific_island,0
+157,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,pacific_island,0
+158,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,pacific_island,3
+159,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,pacific_island,0
+160,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,pacific_island,2
+161,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,pacific_island,0
+162,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,pacific_island,0
+163,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,pacific_island,0
+164,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,pacific_island,0
+165,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,pacific_island,0
+166,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,pacific_island,0
+167,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,pacific_island,0
+168,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,pacific_island,0
+169,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,pacific_island,0
+170,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,pacific_island,0
+171,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,pacific_island,37
+172,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,pacific_island,4
+173,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,pacific_island,0
+174,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,pacific_island,0
+175,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,pacific_island,2
+176,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,pacific_island,0
+177,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,pacific_island,0
+178,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,pacific_island,0
+179,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,pacific_island,0
+180,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,pacific_island,0
+181,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,pacific_island,0
+182,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,pacific_island,0
+183,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,pacific_island,0
+184,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,pacific_island,5
+185,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,pacific_island,0
+186,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,pacific_island,0
+187,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,pacific_island,2
+188,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,pacific_island,0
+189,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,pacific_island,0
+190,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,pacific_island,2
+191,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,pacific_island,0
+192,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,pacific_island,0
+193,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,pacific_island,4
+194,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,pacific_island,0
+195,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,pacific_island,0
+196,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,pacific_island,2
+197,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,pacific_island,0
+198,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,pacific_island,0
+199,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,pacific_island,5
+200,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,pacific_island,0
+201,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,pacific_island,9
+202,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,pacific_island,4
+203,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,pacific_island,0
+204,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,hispanic,36
+205,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,hispanic,235
+206,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,hispanic,22
+207,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,hispanic,280
+208,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,hispanic,409
+209,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,hispanic,183
+210,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,hispanic,4
+211,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,hispanic,149
+212,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,hispanic,406
+213,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,hispanic,254
+214,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,hispanic,0
+215,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,hispanic,448
+216,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,hispanic,757
+217,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,hispanic,374
+218,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,hispanic,162
+219,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,hispanic,520
+220,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,hispanic,194
+221,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,hispanic,3
+222,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,hispanic,31
+223,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,hispanic,22
+224,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,hispanic,159
+225,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,hispanic,229
+226,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,hispanic,129
+227,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,hispanic,339
+228,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,hispanic,640
+229,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,hispanic,221
+230,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,hispanic,100
+231,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,hispanic,235
+232,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,hispanic,123
+233,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,hispanic,111
+234,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,hispanic,322
+235,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,hispanic,81
+236,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,hispanic,176
+237,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,hispanic,259
+238,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,hispanic,146
+239,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,hispanic,220
+240,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,hispanic,328
+241,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,hispanic,318
+242,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,hispanic,13
+243,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,hispanic,64
+244,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,hispanic,19
+245,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,hispanic,8
+246,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,hispanic,43
+247,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,hispanic,28
+248,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,hispanic,51
+249,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,hispanic,292
+250,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,hispanic,22
+251,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,hispanic,8
+252,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,hispanic,118
+253,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,hispanic,11
+254,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,hispanic,864
+255,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,hispanic,472
+256,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,hispanic,224
+257,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,hispanic,231
+258,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,hispanic,841
+259,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,hispanic,506
+260,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,hispanic,22
+261,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,hispanic,112
+262,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,hispanic,196
+263,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,hispanic,590
+264,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,hispanic,427
+265,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,hispanic,100
+266,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,hispanic,28
+267,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,hispanic,199
+268,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,hispanic,132
+269,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,hispanic,438
+270,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,hispanic,478
+271,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,hispanic,132
+272,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,black,391
+273,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,black,355
+274,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,black,43
+275,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,black,528
+276,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,black,676
+277,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,black,489
+278,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,black,1
+279,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,black,903
+280,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,black,820
+281,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,black,1382
+282,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,black,0
+283,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,black,2723
+284,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,black,907
+285,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,black,2219
+286,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,black,1948
+287,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,black,943
+288,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,black,1556
+289,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,black,10
+290,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,black,88
+291,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,black,107
+292,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,black,1333
+293,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,black,835
+294,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,black,824
+295,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,black,820
+296,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,black,766
+297,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,black,703
+298,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,black,1483
+299,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,black,1660
+300,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,black,1564
+301,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,black,235
+302,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,black,316
+303,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,black,104
+304,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,black,1443
+305,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,black,724
+306,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,black,1093
+307,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,black,1455
+308,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,black,1186
+309,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,black,1997
+310,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,black,92
+311,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,black,496
+312,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,black,106
+313,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,black,250
+314,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,black,130
+315,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,black,241
+316,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,black,444
+317,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,black,1192
+318,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,black,334
+319,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,black,37
+320,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,black,169
+321,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,black,99
+322,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,black,2729
+323,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,black,973
+324,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,black,1496
+325,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,black,589
+326,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,black,772
+327,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,black,740
+328,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,black,3767
+329,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,black,1429
+330,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,black,4177
+331,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,black,3305
+332,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,black,1246
+333,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,black,1698
+334,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,black,178
+335,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,black,277
+336,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,black,141
+337,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,black,2146
+338,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,black,1078
+339,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,black,1163
+340,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,white,99
+341,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,white,1759
+342,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,white,160
+343,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,white,179
+344,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,white,853
+345,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,white,119
+346,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,white,0
+347,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,white,81
+348,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,white,385
+349,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,white,73
+350,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,white,22
+351,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,white,42
+352,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,white,61
+353,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,white,116
+354,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,white,8
+355,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,white,43
+356,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,white,2
+357,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,white,0
+358,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,white,19
+359,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,white,0
+360,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,white,182
+361,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,white,520
+362,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,white,170
+363,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,white,161
+364,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,white,817
+365,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,white,144
+366,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,white,105
+367,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,white,394
+368,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,white,65
+369,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,white,20
+370,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,white,46
+371,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,white,0
+372,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,white,271
+373,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,white,1738
+374,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,white,205
+375,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,white,76
+376,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,white,361
+377,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,white,47
+378,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,white,54
+379,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,white,376
+380,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,white,12
+381,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,white,9
+382,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,white,73
+383,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,white,1
+384,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,white,13
+385,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,white,55
+386,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,white,25
+387,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,white,130
+388,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,white,1447
+389,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,white,223
+390,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,white,78
+391,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,white,133
+392,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,white,88
+393,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,white,66
+394,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,white,1126
+395,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,white,222
+396,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,white,77
+397,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,white,22
+398,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,white,39
+399,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,white,88
+400,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,white,145
+401,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,white,184
+402,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,white,150
+403,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,white,1966
+404,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,white,190
+405,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,white,147
+406,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,white,58
+407,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,white,31
+408,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,two_or_more,12
+409,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,two_or_more,70
+410,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,two_or_more,1
+411,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,two_or_more,26
+412,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,two_or_more,88
+413,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,two_or_more,20
+414,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,two_or_more,0
+415,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,two_or_more,18
+416,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,two_or_more,76
+417,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,two_or_more,21
+418,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,two_or_more,0
+419,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,two_or_more,190
+420,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,two_or_more,31
+421,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,two_or_more,24
+422,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,two_or_more,19
+423,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,two_or_more,25
+424,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,two_or_more,0
+425,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,two_or_more,0
+426,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,two_or_more,4
+427,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,two_or_more,0
+428,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,two_or_more,94
+429,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,two_or_more,49
+430,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,two_or_more,16
+431,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,two_or_more,96
+432,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,two_or_more,88
+433,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,two_or_more,73
+434,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,two_or_more,25
+435,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,two_or_more,103
+436,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,two_or_more,38
+437,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,two_or_more,3
+438,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,two_or_more,16
+439,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,two_or_more,0
+440,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,two_or_more,8
+441,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,two_or_more,46
+442,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,two_or_more,51
+443,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,two_or_more,47
+444,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,two_or_more,52
+445,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,two_or_more,40
+446,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,two_or_more,14
+447,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,two_or_more,52
+448,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,two_or_more,8
+449,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,two_or_more,2
+450,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,two_or_more,7
+451,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,two_or_more,5
+452,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,two_or_more,8
+453,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,two_or_more,31
+454,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,two_or_more,18
+455,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,two_or_more,9
+456,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,two_or_more,49
+457,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,two_or_more,5
+458,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,two_or_more,82
+459,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,two_or_more,55
+460,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,two_or_more,92
+461,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,two_or_more,36
+462,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,two_or_more,97
+463,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,two_or_more,51
+464,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,two_or_more,5
+465,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,two_or_more,22
+466,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,two_or_more,96
+467,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,two_or_more,172
+468,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,two_or_more,64
+469,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,two_or_more,34
+470,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,two_or_more,5
+471,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,two_or_more,58
+472,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,two_or_more,26
+473,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,two_or_more,16
+474,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,two_or_more,34
+475,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,two_or_more,9
+476,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,total,540
+477,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,total,2881
+478,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,total,240
+479,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,total,1014
+480,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,total,2126
+481,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,total,818
+482,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,total,5
+483,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,total,1223
+484,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,total,1865
+485,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,total,1747
+486,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,total,25
+487,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,total,3427
+488,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,total,1886
+489,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,total,2808
+490,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,total,2138
+491,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,total,1596
+492,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,total,1752
+493,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,total,13
+494,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,total,148
+495,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,total,129
+496,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,total,1787
+497,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,total,1674
+498,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,total,1150
+499,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,total,1484
+500,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,total,2462
+501,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,total,1207
+502,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,total,1725
+503,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,total,2529
+504,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,total,1818
+505,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,total,373
+506,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,total,711
+507,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,total,185
+508,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,total,1923
+509,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,total,2880
+510,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,total,1496
+511,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,total,1843
+512,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,total,2020
+513,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,total,2472
+514,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,total,173
+515,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,total,1014
+516,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,total,145
+517,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,total,275
+518,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,total,262
+519,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,total,275
+520,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,total,523
+521,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,total,1656
+522,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,total,399
+523,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,total,184
+524,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,total,2012
+525,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,total,358
+526,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,total,3768
+527,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,total,1694
+528,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,total,1900
+529,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,total,925
+530,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,total,2939
+531,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,total,1546
+532,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,total,3881
+533,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,total,1684
+534,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,total,4563
+535,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,total,4236
+536,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,total,1994
+537,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,total,2018
+538,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,total,369
+539,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,total,2585
+540,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,total,496
+541,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,total,2774
+542,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,total,1711
+543,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,total,1343
+544,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,swd_idea,23
+545,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,swd_idea,167
+546,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,swd_idea,9
+547,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,swd_idea,90
+548,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,swd_idea,170
+549,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,swd_idea,180
+550,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,swd_idea,0
+551,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,swd_idea,220
+552,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,swd_idea,173
+553,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,swd_idea,265
+554,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,swd_idea,3
+555,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,swd_idea,621
+556,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,swd_idea,227
+557,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,swd_idea,386
+558,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,swd_idea,405
+559,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,swd_idea,212
+560,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,swd_idea,287
+561,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,swd_idea,0
+562,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,swd_idea,0
+563,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,swd_idea,0
+564,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,swd_idea,203
+565,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,swd_idea,173
+566,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,swd_idea,180
+567,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,swd_idea,311
+568,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,swd_idea,242
+569,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,swd_idea,159
+570,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,swd_idea,201
+571,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,swd_idea,188
+572,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,swd_idea,357
+573,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,swd_idea,31
+574,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,swd_idea,59
+575,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,swd_idea,10
+576,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,swd_idea,637
+577,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,swd_idea,239
+578,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,swd_idea,317
+579,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,swd_idea,378
+580,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,swd_idea,167
+581,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,swd_idea,450
+582,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,swd_idea,22
+583,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,swd_idea,56
+584,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,swd_idea,7
+585,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,swd_idea,18
+586,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,swd_idea,32
+587,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,swd_idea,80
+588,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,swd_idea,15
+589,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,swd_idea,71
+590,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,swd_idea,82
+591,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,swd_idea,10
+592,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,swd_idea,128
+593,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,swd_idea,75
+594,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,swd_idea,340
+595,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,swd_idea,182
+596,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,swd_idea,235
+597,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,swd_idea,99
+598,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,swd_idea,200
+599,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,swd_idea,179
+600,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,swd_idea,992
+601,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,swd_idea,236
+602,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,swd_idea,1111
+603,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,swd_idea,835
+604,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,swd_idea,245
+605,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,swd_idea,209
+606,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,swd_idea,95
+607,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,swd_idea,227
+608,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,swd_idea,121
+609,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,swd_idea,398
+610,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,swd_idea,185
+611,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,swd_idea,239
+612,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,swd_401,0
+613,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,swd_401,64
+614,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,swd_401,3
+615,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,swd_401,48
+616,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,swd_401,64
+617,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,swd_401,35
+618,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,swd_401,0
+619,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,swd_401,26
+620,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,swd_401,31
+621,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,swd_401,27
+622,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,swd_401,0
+623,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,swd_401,88
+624,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,swd_401,16
+625,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,swd_401,93
+626,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,swd_401,110
+627,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,swd_401,28
+628,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,swd_401,119
+629,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,swd_401,2
+630,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,swd_401,7
+631,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,swd_401,0
+632,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,swd_401,112
+633,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,swd_401,40
+634,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,swd_401,50
+635,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,swd_401,69
+636,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,swd_401,49
+637,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,swd_401,92
+638,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,swd_401,32
+639,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,swd_401,61
+640,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,swd_401,75
+641,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,swd_401,32
+642,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,swd_401,19
+643,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,swd_401,2
+644,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,swd_401,41
+645,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,swd_401,118
+646,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,swd_401,139
+647,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,swd_401,43
+648,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,swd_401,55
+649,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,swd_401,131
+650,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,swd_401,14
+651,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,swd_401,70
+652,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,swd_401,6
+653,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,swd_401,8
+654,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,swd_401,10
+655,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,swd_401,2
+656,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,swd_401,14
+657,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,swd_401,40
+658,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,swd_401,10
+659,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,swd_401,1
+660,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,swd_401,85
+661,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,swd_401,13
+662,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,swd_401,143
+663,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,swd_401,25
+664,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,swd_401,169
+665,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,swd_401,71
+666,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,swd_401,109
+667,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,swd_401,84
+668,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,swd_401,105
+669,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,swd_401,28
+670,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,swd_401,98
+671,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,swd_401,98
+672,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,swd_401,25
+673,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,swd_401,110
+674,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,swd_401,14
+675,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,swd_401,94
+676,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,swd_401,30
+677,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,swd_401,82
+678,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,swd_401,19
+679,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,swd_401,31
+680,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,School days missed due to out-of-school suspension,el,0
+681,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2015,Total enrollment,el,73
+682,NC,Charlotte-Mecklenburg Schools,NC,Ardrey Kell High,600302,2017,School days missed due to out-of-school suspension,el,8
+683,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,School days missed due to out-of-school suspension,el,117
+684,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2015,Total enrollment,el,103
+685,NC,Charlotte-Mecklenburg Schools,NC,Butler High,600361,2017,School days missed due to out-of-school suspension,el,43
+686,NC,Charlotte-Mecklenburg Schools,NC,Charlotte Engineering Early College-UNCC,600567,2017,School days missed due to out-of-school suspension,el,0
+687,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,School days missed due to out-of-school suspension,el,92
+688,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2015,Total enrollment,el,151
+689,NC,Charlotte-Mecklenburg Schools,NC,East Mecklenburg High,600377,2017,School days missed due to out-of-school suspension,el,104
+690,NC,Charlotte-Mecklenburg Schools,NC,eLearning Academy,600499,2017,School days missed due to out-of-school suspension,el,0
+691,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,School days missed due to out-of-school suspension,el,333
+692,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2015,Total enrollment,el,448
+693,NC,Charlotte-Mecklenburg Schools,NC,Garinger High,600397,2017,School days missed due to out-of-school suspension,el,347
+694,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,School days missed due to out-of-school suspension,el,95
+695,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2015,Total enrollment,el,277
+696,NC,Charlotte-Mecklenburg Schools,NC,Harding University High,600405,2017,School days missed due to out-of-school suspension,el,98
+697,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,School days missed due to out-of-school suspension,el,0
+698,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2015,Total enrollment,el,2
+699,NC,Charlotte-Mecklenburg Schools,NC,Hawthorne High,600386,2017,School days missed due to out-of-school suspension,el,5
+700,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,School days missed due to out-of-school suspension,el,77
+701,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2015,Total enrollment,el,70
+702,NC,Charlotte-Mecklenburg Schools,NC,Hopewell High,600415,2017,School days missed due to out-of-school suspension,el,10
+703,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,School days missed due to out-of-school suspension,el,160
+704,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2015,Total enrollment,el,244
+705,NC,Charlotte-Mecklenburg Schools,NC,Independence High,600426,2017,School days missed due to out-of-school suspension,el,83
+706,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,School days missed due to out-of-school suspension,el,2
+707,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2015,Total enrollment,el,64
+708,NC,Charlotte-Mecklenburg Schools,NC,Mallard Creek High,600445,2017,School days missed due to out-of-school suspension,el,81
+709,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,School days missed due to out-of-school suspension,el,27
+710,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2015,Total enrollment,el,73
+711,NC,Charlotte-Mecklenburg Schools,NC,Military and Global Leadership Academy,600364,2017,School days missed due to out-of-school suspension,el,52
+712,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,School days missed due to out-of-school suspension,el,113
+713,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2015,Total enrollment,el,115
+714,NC,Charlotte-Mecklenburg Schools,NC,Myers Park High,600466,2017,School days missed due to out-of-school suspension,el,23
+715,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,School days missed due to out-of-school suspension,el,56
+716,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2015,Total enrollment,el,100
+717,NC,Charlotte-Mecklenburg Schools,NC,North Mecklenburg High,600480,2017,School days missed due to out-of-school suspension,el,96
+718,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,School days missed due to out-of-school suspension,el,2
+719,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2015,Total enrollment,el,4
+720,NC,Charlotte-Mecklenburg Schools,NC,Northwest School of the Arts,600482,2017,School days missed due to out-of-school suspension,el,4
+721,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,School days missed due to out-of-school suspension,el,3
+722,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2015,Total enrollment,el,16
+723,NC,Charlotte-Mecklenburg Schools,NC,Performance Learning Center,600498,2017,School days missed due to out-of-school suspension,el,21
+724,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,School days missed due to out-of-school suspension,el,0
+725,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2015,Total enrollment,el,25
+726,NC,Charlotte-Mecklenburg Schools,NC,Phillip O Berry Academy of Technology,600496,2017,School days missed due to out-of-school suspension,el,26
+727,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,School days missed due to out-of-school suspension,el,3
+728,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2015,Total enrollment,el,46
+729,NC,Charlotte-Mecklenburg Schools,NC,Providence High,600508,2017,School days missed due to out-of-school suspension,el,5
+730,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,School days missed due to out-of-school suspension,el,206
+731,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2015,Total enrollment,el,142
+732,NC,Charlotte-Mecklenburg Schools,NC,Rocky River High,600457,2017,School days missed due to out-of-school suspension,el,46
+733,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,School days missed due to out-of-school suspension,el,67
+734,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2015,Total enrollment,el,208
+735,NC,Charlotte-Mecklenburg Schools,NC,South Mecklenburg High,600535,2017,School days missed due to out-of-school suspension,el,265
+736,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,School days missed due to out-of-school suspension,el,19
+737,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2015,Total enrollment,el,76
+738,NC,Charlotte-Mecklenburg Schools,NC,West Charlotte High,600576,2017,School days missed due to out-of-school suspension,el,64
+739,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,School days missed due to out-of-school suspension,el,200
+740,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2015,Total enrollment,el,151
+741,NC,Charlotte-Mecklenburg Schools,NC,West Mecklenburg High,600579,2017,School days missed due to out-of-school suspension,el,20
+742,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,School days missed due to out-of-school suspension,el,10
+743,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2015,Total enrollment,el,52
+744,NC,Charlotte-Mecklenburg Schools,NC,William Amos Hough High,600312,2017,School days missed due to out-of-school suspension,el,43
+745,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,School days missed due to out-of-school suspension,el,163
+746,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2015,Total enrollment,el,190
+747,NC,Charlotte-Mecklenburg Schools,NC,Julius L. Chambers High School,600592,2017,School days missed due to out-of-school suspension,el,43
